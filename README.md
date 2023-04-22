@@ -1,3 +1,5 @@
+Forked from [cimnine/shelly-prometheus-exporter](https://gitlab.com/cimnine/shelly-prometheus-exporter)
+
 # shelly-prometheus-exporter
 
 This is a prometheus exporter written in Go.
