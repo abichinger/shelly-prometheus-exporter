@@ -1,0 +1,6 @@
+version: "3.1"
+services:
+  exporter:
+    build: .
+    ports:
+    - 9091:54901
