@@ -3,4 +3,4 @@ services:
   exporter:
     build: .
     ports:
-    - 9091:54901
+    - 54901:54901
