@@ -4,3 +4,4 @@ services:
     build: .
     ports:
     - 54901:54901
+    restart: always
